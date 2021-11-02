@@ -53,3 +53,4 @@ amplifytools.xcconfig
 **.sample
 #amplify-do-not-edit-end
 /.idea/
+/amplify/team-provider-info.json
